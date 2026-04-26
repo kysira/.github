@@ -1,58 +1,45 @@
 # Kysira
 
-> **Transforming data into decisions.**
+> **Unlocking the value hidden in your data.**
 
-Kysira is a data science company dedicated to helping organizations unlock the value hidden in their data. We build intelligent solutions—from exploratory analytics and machine learning models to end-to-end data pipelines and interactive dashboards—so that every decision your team makes is backed by evidence.
+We help teams turn messy, fragmented data into **clear insights**, **reliable systems**, and **decision-ready products**.
+
+- Evidence-based analytics that drives action
+- Practical machine learning you can ship and maintain
+- Modern data platforms built for scale
 
 ---
 
-## 🔍 What We Do
+## What we build
 
-| Practice Area | Description |
+| Area | Outcomes |
 |---|---|
-| **Data Engineering** | Robust pipelines and warehouses that make data reliable, scalable, and accessible. |
-| **Machine Learning** | Predictive and prescriptive models that turn historical patterns into future insights. |
-| **Analytics & BI** | Interactive dashboards and reports that surface the metrics that matter most. |
-| **AI Product Development** | End-to-end development of intelligent features embedded directly in your products. |
-| **Data Strategy & Consulting** | Roadmapping, governance frameworks, and team enablement to build a data-driven culture. |
+| **Data platforms** | Warehouses, pipelines, orchestration, governance, and observability. |
+| **Analytics & BI** | KPIs, dashboards, self-serve analytics, and reporting that stakeholders trust. |
+| **Machine learning** | Forecasting, classification, recommendation, NLP, and model operations. |
+| **AI product development** | AI features integrated into your applications—from prototype to production. |
 
 ---
 
-## 🛠️ Our Stack
+## How we work
 
-**Languages**
-`Python` · `R` · `SQL` · `Scala`
-
-**Machine Learning & AI**
-`scikit-learn` · `PyTorch` · `TensorFlow` · `Hugging Face` · `XGBoost`
-
-**Data Engineering**
-`Apache Spark` · `Apache Airflow` · `dbt` · `Kafka` · `Flink`
-
-**Cloud & Infrastructure**
-`AWS` · `Google Cloud` · `Azure` · `Kubernetes` · `Terraform`
-
-**Visualization & BI**
-`Tableau` · `Power BI` · `Plotly` · `Streamlit` · `Metabase`
-
-**Storage & Databases**
-`PostgreSQL` · `BigQuery` · `Snowflake` · `Databricks` · `Redis`
+- **Discover**: align on goals, constraints, and the highest-leverage data opportunities
+- **Deliver**: build iteratively with measurable milestones and transparent communication
+- **Enable**: documentation, handoff, and upskilling so your team owns what we ship
 
 ---
 
-## 📂 Repositories
+## Explore our work
 
-Explore our open-source work, research prototypes, and community resources across this organisation. Contributions and feedback are always welcome—check individual repos for contributing guidelines.
+Browse our open-source projects, research prototypes, and internal tooling across this GitHub organization.
 
 ---
 
-## 🤝 Work With Us
+## Work with us
 
-Whether you need a dedicated data science team, a short-term engagement to accelerate a specific initiative, or training to upskill your analysts, we would love to hear from you.
-
-- 🌐 Website: [kysira.com](https://kysira.com)
+- 🌐 Website: https://kysira.github.io
 - 📧 Email: hello@kysira.com
-- 💼 LinkedIn: [linkedin.com/company/kysira](https://linkedin.com/company/kysira)
+- 💼 LinkedIn: https://linkedin.com/company/kysira
 
 ---
 
